@@ -74,6 +74,16 @@ namespace ConsoleApp7
             Console.Write(binary1);
         }
         /*5*/
+
+
+
+
+        //---------------------------------------------
+
+
+
+
+
         public static void ReturnLuckNum(int n)
         {
             int count = 0;
